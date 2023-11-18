@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Vina+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+.main-section {
+  padding: 20px;
+}
+.image-container {
+  height: 500px;
+  background: url("https://img.freepik.com/premium-photo/spring-landscape-cherry-blossoms-sakura-petals-fall-against-backdrop-mount-fuji-japan_727523-1190.jpg?w=826");
+}
+h1,
+h3 {
+  font-family: "Vina Sans", sans-serif;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+h1 {
+  margin-top: 0;
+  font-size: 64px;
+}
+h3 {
+  font-size: 24px;
+  margin-top: 0;
+}
+a {
+  font-weight: 600;
+  font-style: italic;
+}
+h6 {
+  background: linear-gradient(183deg, #0a040b, #e255c8b5);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 6px 22px;
+  border-bottom: 1px solid #dfdfdf;
+}
+a {
+  text-decoration: none;
+  color: #0a040b;
+}
+a:hover {
+  color: #e255c8b5;
+}
+
+.image-container-kita {
+  height: 500px;
+  background: url(https://previews.123rf.com/images/torsakarin/torsakarin1411/torsakarin141100298/33908482-vista-del-monte-kita-%C3%A8-la-montagna-pi%C3%B9-alta-del-giappone-secound.jpg);
+}
+.luoghi-kita {
+  background: linear-gradient(183deg, #656231, #cec264);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+.giappo-kita:hover {
+  color: #cec264;
+}
+.image-container-hotaka {
+  height: 500px;
+  background: url(https://media.gettyimages.com/id/173510688/it/foto/morning-glow-on-mt-hodaka.jpg?s=2048x2048&w=gi&k=20&c=cbvYF0FR0lcbU6pK6y6Zd1fGEqlXxHZjy2ArwBy4NCA=);
+}
+.luoghi-hotaka {
+  background: linear-gradient(183deg, #666caa, #cfc3cf);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+.giappo-hotaka:hover {
+  color: #666caa;
+}
+.image-container-aino {
+  height: 500px;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Aino_fom_Mount_Kita_2001-7-2.jpg/1280px-Mount_Aino_fom_Mount_Kita_2001-7-2.jpg);
+}
+.luoghi-aino {
+  background: linear-gradient(211deg, #448259, #3d7de7);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+.giappo-aino:hover {
+  color: #3d7de7;
+}
+.image-container-yariga {
+  height: 500px;
+  background: url(https://cdn.britannica.com/44/11044-050-C96C2AA0/Mount-Yariga-peak-Hida-Range-Japan.jpg?w=300);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.luoghi-yariga {
+  background: linear-gradient(211deg, #8e5752, #dad6c9);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+.giappo-yariga:hover {
+  color: #8e5752;
+}
+.image-container-Warusawa {
+  height: 500px;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/3/31/13_Arakawadake_from_Shiomidake_2000-7-9.jpg);
+}
+.luoghi-Warusawa {
+  background: linear-gradient(206deg, #00368a, #899d8d);
+  border-radius: 6px;
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+}
+.giappo-Warusawa:hover {
+  color: #3d7de7;
+}
+footer {
+  background-color: black;
+  padding: 16px;
+}
+footer a {
+  color: white;
+}
